@@ -9,7 +9,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone https://github.com/zarathon/redux-react-example
-	> cd ReduxSimpleStarter
+	> cd redux-react-example
 	> npm install
 	> npm start
 ```
